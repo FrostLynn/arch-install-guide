@@ -1,2 +1,2 @@
-#DISCLAIMER
-This repository features my personal 2024 Arch Linux installation guide. It covers essential steps, including hardware setup, partitioning, package installation, and system configuration. Ideal for both beginners and experienced users aiming for a stable and efficient Arch Linux setup.
+## Disclaimer
+I’m not an experienced Arch user by any means—this is just a fun project for me. I’m not responsible for any data loss or hardware damage that might occur. If you don’t know the basics of Linux, it’s best not to follow my guide.
